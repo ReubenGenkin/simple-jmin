@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header and hero styles start*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -59,6 +61,10 @@ p {
     background-position: center;
 }
 
+/* header and hero styles end*/
+
+/* main content style start*/
+
 .float-left {
     float: left;
     margin-right: 25px;
@@ -86,79 +92,14 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.search-engine-optimization {
+.article-content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    color: #ffffff; 
 }
 
 .height200 {
@@ -170,6 +111,30 @@ p {
     font-size: 36px;
 }
 
+/* main content style end*/
+
+/* aside style start */
+
+.side {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.side-title {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.side-style {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;   
+}
+
+/* aside style end */
+
+/* footer style start*/
+
 footer {
     padding: 30px;
     clear: both;
@@ -180,3 +145,5 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* footer style end*/
