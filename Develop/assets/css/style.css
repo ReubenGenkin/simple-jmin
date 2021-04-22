@@ -93,7 +93,7 @@ p {
 }
 
 
-.article-content {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -102,11 +102,11 @@ p {
     color: #ffffff; 
 }
 
-.height200 {
+.content img {
     max-height: 200px;
 }
 
-.article-titles {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
