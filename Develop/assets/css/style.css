@@ -120,12 +120,12 @@ p {
     color: #ffffff;
 }
 
-.side-title {
+.side h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.side-style {
+.side img {
     display: block;
     margin: 10px auto;
     max-width: 150px;   
